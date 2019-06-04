@@ -21,9 +21,9 @@ email = 'ENTER EMAIL'#                                      <<<<<<<<<<<<<< This 
 
 def main():
     """
-    Selenium bot logins to users Instagram and will loop through given Hashtags and like pictures within the hashtags.
-    At the end of a Like Cycle, user will receieve an email with how many followers user has gained.
-    Variables with "<<<<<<<<<<<<" need to be replaced. Explenation of each variable will be provided next to arrows.
+    Selenium bot logins to users Instagram and will loop through given Hashtags and like pictures within the hashtags. 
+    At the end of a Like Cycle, the user will receive an email with how many followers the user has gained. 
+    Variables with "<<<<<<<<<<<<" need to be replaced. Explanation of each variable will be provided next to arrows.
     """
     totalLiked = 0
     urlsCollected = []
